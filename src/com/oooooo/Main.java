@@ -12,5 +12,6 @@ public class Main {
         System.out.println("我007");
         System.out.println("jobuvs008");
         System.out.println("jobuvs009");
+        System.out.println("我100");
     }
 }
