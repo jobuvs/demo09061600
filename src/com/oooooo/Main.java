@@ -28,5 +28,6 @@ public class Main {
         System.out.println("我8000");
         System.out.println("jobuvs6000");
         System.out.println("jobuvs9000");
+        System.out.println("jobuvs10000");
     }
 }
