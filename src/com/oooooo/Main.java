@@ -30,5 +30,6 @@ public class Main {
         System.out.println("jobuvs9000");
         System.out.println("jobuvs10000");
         System.out.println("jobuvs20000");
+        System.out.println("jobuvs30000");
     }
 }
